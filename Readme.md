@@ -12,9 +12,7 @@
 # Description
 
 - Nintendo's ".nes" game files.
-
 - It works with kinds of programs that suit your operating system.
-
 - To run on **Android** platforms: **[Nesoid](http://nesoid.sf.net/)** (Open Source)
 - To run on **Windows** platforms: **[Nestopia](http://nestopia.sourceforge.net/downloads.html)** (Open Source)
 
