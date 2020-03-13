@@ -15,6 +15,8 @@
 - It works with kinds of programs that suit your operating system.
 - To run on **Android** platforms: **[Nesoid](http://nesoid.sf.net/)** (Open Source)
 - To run on **Windows** platforms: **[Nestopia](http://nestopia.sourceforge.net/downloads.html)** (Open Source)
+- Developer of this software: **[@TheDarkRoot](https://github.com/TheDarkRoot)**
+- Official social media accounts: [@Telegram](https://t.me/TDarkRoot) &bull; [@Instagram](https://instagram.com/TheDarkRoot) &bull; [@Twitter](https://twitter.com/TDarkRoot) &bull; [@Github](https://github.com/TheDarkRoot)
 
 # Features
 
